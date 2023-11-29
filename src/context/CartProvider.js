@@ -5,19 +5,19 @@ import React from 'react'
 const initialCartItems = [
     {
         id: 1,
-        name: "Iphone 12",
+        name: "Item 1",
         price: 1200,
         qty: 1
     },
     {
         id: 2,
-        name: "IPad",
+        name: "Item 2",
         price: 1500,
         qty: 1
     },
     {
         id: 3,
-        name: "Macbook",
+        name: "Item 3k",
         price: 2000,
         qty: 1
     },
